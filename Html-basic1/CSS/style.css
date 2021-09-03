@@ -1,0 +1,32 @@
+h1 {
+    color:darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify; "sorkizart"
+}
+h3 {font-family:sans-serif;}
+#bio-header { color: darkred; 
+}
+#skills-header {color:darkviolet;
+} 
+
+.content {
+    color: green;
+    font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center; "középen"
+   text-transform: lowercase; "kisebb betűk"
+   line-height: normal; "lehet pixel is"
+   font-weight: 200; "vastagság"
+   text-transform: capitalize; "nagybetűkk a sor elején"
+}  
+   
+.Brown {color: brown;}
+
+.bold {font-weight: bold;}
+
+img {width: 12%; box-shadow:3px 3px 10px black; margin: 2%;
+    }
+.img-div { 
+    background-color: lightblue}       
+#img-1 { position:fixed; top: 10px; left: 200px;}
+.target {position:reltive;color:brown; background-color: cornflowerblue;}
